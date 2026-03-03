@@ -63,12 +63,12 @@ To run this project locally, follow these steps:
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/haqorayush/Awareness-Game.git](https://github.com/haqorayush/Awareness-Game.git)
+    git clone [https://github.com/haqorayush/Disaster-Awareness-Game.git](https://github.com/haqorayush/DisasterAwareness-Game.git)
     ```
 
 2.  **Navigate to the project directory**
     ```bash
-    cd Awareness-Game
+    cd Disaster-Awareness-Game
     ```
 
 3.  **Install dependencies**
