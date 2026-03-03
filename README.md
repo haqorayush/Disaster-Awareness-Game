@@ -63,7 +63,7 @@ To run this project locally, follow these steps:
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/haqorayush/Disaster-Awareness-Game.git](https://github.com/haqorayush/DisasterAwareness-Game.git)
+    git clone [https://github.com/haqorayush/Disaster-Awareness-Game.git](https://github.com/haqorayush/Disaster-Awareness-Game.git)
     ```
 
 2.  **Navigate to the project directory**
