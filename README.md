@@ -1,70 +1,111 @@
-# Getting Started with Create React App
+<div align="center">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 🚨 Disaster Awareness Game
 
-## Available Scripts
+**An Interactive Disaster Management Awareness Tool**
 
-In the project directory, you can run:
+Developed for the **Uttar Pradesh State Disaster Management Authority (UPSDMA)** to educate users about safety protocols during natural and man-made disasters.
 
-### `npm start`
+[![React](https://img.shields.io/badge/React-18.x-blue.svg)](https://reactjs.org/)
+[![Vercel](https://img.shields.io/badge/Deployed-Vercel-black.svg)](https://awareness-game.vercel.app)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+[**Play the Game Live**](https://flood-awareness-game.vercel.app)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+</div>
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📖 Table of Contents
+- [About the Project](#-about-the-project)
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
+- [Getting Started](#-getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#-usage)
+- [Contributing](#-contributing)
+- [License](#-license)
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📝 About the Project
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+This project is a web-based educational game designed to raise awareness about disaster management. By presenting users with scenarios and questions related to various emergencies (such as floods, earthquakes, and fire safety), the game helps users learn vital survival skills and safety measures in an engaging way.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+The initiative aims to make disaster preparedness knowledge accessible and interactive for the general public, specifically targeting the context of Uttar Pradesh, India.
 
-### `npm run eject`
+## ✨ Features
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+* **Interactive Quiz Format**: Test your knowledge on disaster safety protocols.
+* **Scenario-Based Learning**: Real-world situations to help users understand how to react during emergencies.
+* **Instant Feedback**: Learn the correct actions immediately after answering.
+* **Score Tracking**: Monitor your progress and improve your disaster readiness score.
+* **Responsive Design**: Playable on both desktop and mobile devices.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🛠 Tech Stack
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+* **Frontend Framework**: [React.js](https://reactjs.org/)
+* **Styling**: CSS (Custom styling for game interface)
+* **Deployment**: [Vercel](https://vercel.com/)
+* **Version Control**: Git & GitHub
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🚀 Getting Started
 
-## Learn More
+To run this project locally, follow these steps:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Prerequisites
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+* **Node.js** (v14 or higher)
+* **npm** (Node Package Manager)
 
-### Code Splitting
+### Installation
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+1.  **Clone the repository**
+    ```bash
+    git clone [https://github.com/haqorayush/Awareness-Game.git](https://github.com/haqorayush/Awareness-Game.git)
+    ```
 
-### Analyzing the Bundle Size
+2.  **Navigate to the project directory**
+    ```bash
+    cd Awareness-Game
+    ```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+3.  **Install dependencies**
+    ```bash
+    npm install
+    ```
 
-### Making a Progressive Web App
+4.  **Start the development server**
+    ```bash
+    npm start
+    ```
+    The app will open in your browser at `http://localhost:3000`.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 🎮 Usage
 
-### Advanced Configuration
+1.  Open the application in your web browser.
+2.  Start the quiz/game session.
+3.  Read the disaster scenario or question carefully.
+4.  Select the best course of action from the given options.
+5.  Review the feedback and learn the correct safety protocol.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 🤝 Contributing
 
-### Deployment
+Contributions are welcome to improve the game's content, add new scenarios, or enhance the UI/UX.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+1.  Fork the Project
+2.  Create your Feature Branch (`git checkout -b feature/NewScenario`)
+3.  Commit your Changes (`git commit -m 'Add new earthquake scenario'`)
+4.  Push to the Branch (`git push origin feature/NewScenario`)
+5.  Open a Pull Request
 
-### `npm run build` fails to minify
+## 📄 License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Distributed under the MIT License. See `LICENSE` for more information.
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ by <a href="https://github.com/haqorayush">haqorayush</a></sub>
+</div>
