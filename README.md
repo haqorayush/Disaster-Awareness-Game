@@ -10,7 +10,7 @@ Developed for the **Uttar Pradesh State Disaster Management Authority (UPSDMA)**
 [![Vercel](https://img.shields.io/badge/Deployed-Vercel-black.svg)](https://awareness-game.vercel.app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[**Play the Game Live**](https://disaster-awareness-game-2feakal99-haqorayushs-projects.vercel.app)
+[**Play the Game Live**](https://disaster-awareness-game.vercel.app)
 
 </div>
 
